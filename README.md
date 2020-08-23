@@ -1,12 +1,12 @@
 # Material de apoio para estilização de arquivos Readme.md
 <a href="https://opensource.org/licenses/MIT" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/CastroFilipe/readme-resources"></a>  
 
-Este repositório contém material de auxilio para a criação de arquivos Readme.md estilizados.  
-A tabela abaixo exibe alguns emojis selecionados, uma lista mais completa pode ser encontrada no projeto [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+Este repositório contém material de auxílio para a criação de arquivos Readme.md estilizados.  
 
 <h2>Emojis</h2>
 
-Os emojis são utéis pois permitem um refinamento maior em relação ao visual do arquivo readme.md.
+Os emojis são úteis pois permitem um refinamento maior em relação ao visual do arquivo readme.md.  
+A tabela abaixo exibe alguns emojis selecionados, uma lista mais completa pode ser encontrada no projeto [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 | icone | code | icone | code | icone | code |
 | :-: | - | :-: | - | :-: | - |
@@ -38,7 +38,7 @@ Os emojis são utéis pois permitem um refinamento maior em relação ao visual 
 
 Os distintivos foram personalizados utilizando-se a ferramenta [Shields.io](https://shields.io/) em conjunto com projeto de ícones [Simple icons](https://simpleicons.org/).  
 Foram desenvolvidos três estilos de distintivos(flat, flat square e for the badge) para cada tecnologia e que podem ser copiados para outros arquivos markdown.  
-Novos distintivos serão adiconados de acordo com a demanda.
+Novos distintivos serão adicionados de acordo com a demanda.
 
 <h3>Distintivos de tecnologias front-end</h3>
 
