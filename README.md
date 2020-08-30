@@ -595,6 +595,25 @@ Novos distintivos serão adicionados de acordo com a demanda.
             </td>
         </tr>
         <tr></tr>
+        <tr>
+            <td valign="middle">
+                ADOBE XD
+            </td>
+            <td valign="middle">
+                <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img
+                        src="https://img.shields.io/badge/XD-TOOLS-ff61f6?style=for-the-badge&logo=adobe%20xd"
+                        alt="adobe xd"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img
+                        src="https://img.shields.io/badge/XD-TOOLS-ff61f6?style=flat-square&logo=adobe%20xd" alt="adobe xd"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://www.adobe.com/br/products/xd.html" target="_blank"><img
+                        src="https://img.shields.io/badge/XD-TOOLS-ff61f6?style=flat&logo=adobe%20xd" alt="adobe xd"></a>
+            </td>
+        </tr>
+        <tr></tr>
     </tbody>
 </table>
 <!--Fim softwares e utilitários-->
