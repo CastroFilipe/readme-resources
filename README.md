@@ -497,6 +497,27 @@ Novos distintivos serão adicionados de acordo com a demanda.
             </td>
         </tr>
         <tr></tr>
+        <tr>
+            <td valign="middle">
+                APACHE KAFKA
+            </td>
+            <td valign="middle">
+                <a href="https://kafka.apache.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/APACHE%20KAFKA-TOOLS-333333?style=for-the-badge&logo=apache%20kafka"
+                        alt="apache kafka"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://kafka.apache.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/APACHE%20KAFKA-TOOLS-333333?style=flat-square&logo=apache%20kafka"
+                        alt="apache kafka"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://kafka.apache.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/APACHE%20KAFKA-TOOLS-333333?style=flat&logo=apache%20kafka"
+                        alt="apache kafka"></a>
+            </td>
+        </tr>
+        <tr></tr>
     </tbody>
 </table>
 <!--Fim outras tecnologias-->
@@ -530,7 +551,7 @@ Novos distintivos serão adicionados de acordo com a demanda.
             </td>
             <td valign="middle">
                 <a href="https://www.eclipse.org/ide/" target="_blank"><img
-                        src="https://img.shields.io/badge/ECLIPSE%20IDE-f7941e?style=flat&logo=eclipse%20ide"
+                        src="https://img.shields.io/badge/ECLIPSE%20IDE-TOOLS-f7941e?style=flat&logo=eclipse%20ide"
                         alt="eclipse"></a>
             </td>
         </tr>
