@@ -518,6 +518,27 @@ Novos distintivos serão adicionados de acordo com a demanda.
             </td>
         </tr>
         <tr></tr>
+        <tr>
+            <td valign="middle">
+                JUNIT
+            </td>
+            <td valign="middle">
+                <a href="https://junit.org/junit5/" target="_blank"><img
+                        src="https://img.shields.io/badge/JUNIT-TESTING%20FRAMEWORK-dc524a?style=for-the-badge"
+                        alt="junit"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://junit.org/junit5/" target="_blank"><img
+                        src="https://img.shields.io/badge/JUNIT-TESTING%20FRAMEWORK-dc524a?style=flat-square"
+                        alt="junit"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://junit.org/junit5/" target="_blank"><img
+                        src="https://img.shields.io/badge/JUNIT-TESTING%20FRAMEWORK-dc524a?style=flat"
+                        alt="junit"></a>
+            </td>
+        </tr>
+        <tr></tr>
     </tbody>
 </table>
 <!--Fim outras tecnologias-->
