@@ -501,6 +501,27 @@ Novos distintivos serão adicionados de acordo com a demanda.
         <tr></tr>
         <tr>
             <td valign="middle">
+                GRADLE
+            </td>
+            <td valign="middle">
+                <a href="https://gradle.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/GRADLE-BUILD%20TOOL-02303a?style=for-the-badge&logo=gradle"
+                        alt="distintivo gradle"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://gradle.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/GRADLE-BUILD%20TOOL-02303a?style=flat-square&logo=gradle"
+                        alt="distintivo gradle"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://gradle.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/GRADLE-BUILD%20TOOL-02303a?style=flat&logo=gradle"
+                        alt="distintivo gradle"></a>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td valign="middle">
                 GIT
             </td>
             <td valign="middle">
@@ -594,6 +615,27 @@ Novos distintivos serão adicionados de acordo com a demanda.
                 <a href="https://www.eclipse.org/ide/" target="_blank"><img
                         src="https://img.shields.io/badge/ECLIPSE%20IDE-TOOLS-f7941e?style=flat&logo=eclipse%20ide"
                         alt="eclipse"></a>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td valign="middle">
+                Intellij IDEA
+            </td>
+            <td valign="middle">
+                <a href="https://www.jetbrains.com/" target="_blank"><img
+                        src="https://img.shields.io/badge/INTELLIJ%20IDEA-TOOLS-000000?style=for-the-badge&logo=intellij%20idea"
+                        alt="Intellij IDEA"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://www.jetbrains.com/" target="_blank"><img
+                        src="https://img.shields.io/badge/INTELLIJ%20IDEA-TOOLS-000000?style=flat-square&logo=intellij%20idea"
+                        alt="Intellij IDEA"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://www.jetbrains.com/" target="_blank"><img
+                        src="https://img.shields.io/badge/INTELLIJ%20IDEA-TOOLS-000000?style=flat&logo=intellij%20idea"
+                        alt="Intellij IDEA"></a>
             </td>
         </tr>
         <tr></tr>
