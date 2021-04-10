@@ -297,6 +297,26 @@ Novos distintivos serão adicionados de acordo com a demanda.
         <tr></tr>
         <tr>
             <td valign="middle">
+                KOTLIN
+            </td>
+            <td valign="middle">
+                <a href="https://kotlinlang.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/KOTLIN-PROGRAMMING-0096d9?style=for-the-badge&logo=kotlin"
+                        alt="kotlin"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://kotlinlang.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/KOTLIN-PROGRAMMING-0096d9?style=flat-square&logo=kotlin"
+                        alt="kotlin"></a>
+            </td>
+            <td valign="middle">
+                <a href="https://kotlinlang.org/" target="_blank"><img
+                        src="https://img.shields.io/badge/KOTLIN-PROGRAMMING-0096d9?style=flat&logo=kotlin" alt="kotlin"></a>
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td valign="middle">
                 SPRING
             </td>
             <td valign="middle">
