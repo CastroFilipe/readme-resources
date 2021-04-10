@@ -699,10 +699,10 @@ Novos distintivos serão adicionados de acordo com a demanda.
                 <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-05a505?style=for-the-badge" alt="status concluído">
             </td>
             <td valign="middle">
-                <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-05a505?style=flat-square" alt="status concluído"></a>
+                <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-05a505?style=flat-square" alt="status concluído">
             </td>
             <td valign="middle">
-                <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-05a505?style=flat" alt="status concluído"></a>
+                <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-05a505?style=flat" alt="status concluído">
             </td>
         </tr>
         <tr></tr>
@@ -714,10 +714,10 @@ Novos distintivos serão adicionados de acordo com a demanda.
                 <img src="https://img.shields.io/badge/STATUS-EM%20PROGRESSO-009178?style=for-the-badge" alt="em progresso">
             </td>
             <td valign="middle">
-                <img src="https://img.shields.io/badge/STATUS-EM%20PROGRESSO-009178?style=flat-square" alt="em progresso"></a>
+                <img src="https://img.shields.io/badge/STATUS-EM%20PROGRESSO-009178?style=flat-square" alt="em progresso">
             </td>
             <td valign="middle">
-                <img src="https://img.shields.io/badge/STATUS-EM%20PROGRESSO-009178?style=flat" alt="em progresso"></a>
+                <img src="https://img.shields.io/badge/STATUS-EM%20PROGRESSO-009178?style=flat" alt="em progresso">
             </td>
         </tr>
         <tr></tr>
@@ -729,10 +729,10 @@ Novos distintivos serão adicionados de acordo com a demanda.
                 <img src="https://img.shields.io/badge/STATUS-SUSPENSO-ffa500?style=for-the-badge" alt="status suspenso">
             </td>
             <td valign="middle">
-                <img src="https://img.shields.io/badge/STATUS-SUSPENSO-ffa500?style=flat-square" alt="status suspenso"></a>
+                <img src="https://img.shields.io/badge/STATUS-SUSPENSO-ffa500?style=flat-square" alt="status suspenso">
             </td>
             <td valign="middle">
-                <img src="https://img.shields.io/badge/STATUS-SUSPENSO-ffa500?style=flat" alt="status suspenso"></a>
+                <img src="https://img.shields.io/badge/STATUS-SUSPENSO-ffa500?style=flat" alt="status suspenso">
             </td>
         </tr>
         <tr></tr>
@@ -744,10 +744,10 @@ Novos distintivos serão adicionados de acordo com a demanda.
                 <img src="https://img.shields.io/badge/STATUS-DESCONTINUADO-af2222?style=for-the-badge" alt="status descontinuado">
             </td>
             <td valign="middle">
-                <img src="https://img.shields.io/badge/STATUS-DESCONTINUADO-af2222?style=flat-square" alt="status descontinuado"></a>
+                <img src="https://img.shields.io/badge/STATUS-DESCONTINUADO-af2222?style=flat-square" alt="status descontinuado">
             </td>
             <td valign="middle">
-                <img src="https://img.shields.io/badge/STATUS-DESCONTINUADO-af2222?style=flat" alt="status descontinuado"></a>
+                <img src="https://img.shields.io/badge/STATUS-DESCONTINUADO-af2222?style=flat" alt="status descontinuado">
             </td>
         </tr>
         <tr></tr>
