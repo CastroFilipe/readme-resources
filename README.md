@@ -1,5 +1,5 @@
 # Material de apoio para estilização de arquivos Readme.md
-<a href="https://opensource.org/licenses/MIT" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/CastroFilipe/readme-resources"></a>  
+<a href="https://unlicense.org/" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/CastroFilipe/readme-resources"></a>  
 
 Este repositório contém material de auxílio para a criação de arquivos Readme.md estilizados.  
 
